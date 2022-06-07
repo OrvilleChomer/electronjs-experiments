@@ -1,5 +1,5 @@
-# Electronjs Experiments
-Here I am going to add various little experimental programs using ElectronJs.
+# Electron Experiments
+Here I am going to add various little experimental programs using Electron (www.electronjs.org).
 
 Some of this is going to be samples that are really nothing new... just me practicing!
 
