@@ -12,7 +12,9 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 ## Contents
 - Setting up an Electron Environment on your Desktop Computer
 - Setting up a new Electron Project
-- Running/Testing Your Project
+- Running/Testing Your Project -- in your projects directory type in the command:  `npm start`
+
+
 - Project #1: A simple App with a Window
 - Project #2: App window code (renderer.js) Sending Messages to main.js
 - Project #3: Same as #2 but it sends a response back to the window code
@@ -23,8 +25,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 - Project #6: Same as #5 but for a SQL Server database
 - Project #7: Same as #5 but for an Oracle Database
 - 
-#### Setting up an Electron Environment on your Desktop Computer:
-In order to use Electron, you will need to have Node.js installed on your computer. 
+
 
 #### Setting up a new Electron Project:
 I am using the common method of using the command line interface to do this (CLI)... Don't assume though that this is the *only* way that this can be done. Anyways, the steps:
@@ -65,5 +66,4 @@ Yay! At this point you have created your own *Electron* boilerplate app! Also yo
 - At the command line, make sure you are in the directory of your project.
 - Type in the command:  `npm start`  your app will start up.
 
-#### Basic Project #1: A simple App with a Window:
-#### Basic Project #2:
+
