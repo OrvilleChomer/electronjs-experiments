@@ -9,6 +9,20 @@ I am doing my development on a Mac.  The editor I am using is VS Code.
 
 You might find some of the content here over-obvious... Wellll... *Captain Obvious Strikes Again!*
 
+## Contents
+- Setting up an Electron Environment on your Desktop Computer
+- Setting up a new Electron Project
+- Running/Testing Your Project
+- Project #1: A simple App with a Window
+- Project #2: App window code (renderer.js) Sending Messages to main.js
+- Project #3: Same as #2 but it sends a response back to the window code
+- Project #n: Modify a window's menu
+- Project #n: Button on window brings up an open dialog
+- Project #4: main.js code sends a message window code (renderer.js)
+- Project #5: Connect to mySQL database, get Schema information, and display it in window
+- Project #6: Same as #5 but for a SQL Server database
+- Project #7: Same as #5 but for an Oracle Database
+- 
 #### Setting up an Electron Environment on your Desktop Computer:
 In order to use Electron, you will need to have Node.js installed on your computer. 
 
