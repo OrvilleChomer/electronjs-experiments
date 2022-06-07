@@ -14,16 +14,22 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 - [Creating a new Electron Project](creating-electron-projects.MD)
 - Running/Testing Your Project -- in your projects directory type in the command:  `npm start`
 
-- The Experiments:
+- Proposed Experiments:
    - [ ] Project #1: A simple App with a Window
    - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
-   - Project #3: Same as #2 but it sends a response back to the window code
-   - Project #n: Modify a window's menu
-   - Project #n: Button on window brings up an open dialog
-   - Project #4: main.js code sends a message window code (renderer.js)
-   - Project #5: Connect to mySQL database, get Schema information, and display it in window
-   - Project #6: Same as #5 but for a SQL Server database
-   - Project #7: Same as #5 but for an Oracle Database
+   - [ ] Project #3: Same as #2 but it sends a response back to the window code
+   - [ ] Project #n: Modify a window's menu
+   - [ ] Project #n: Context menu
+   - [ ] Project #n: Open Dialog. Allow user to select a text file and view its contents
+   - [ ] Project #n: Edit and Save text files... use Save Dialog
+   - [ ] Project #4: main.js code sends a message window code (renderer.js)
+   - [ ] Project #n: Load and Parse a JSON file (from file system)
+   - [ ] Project #n: Load and Parse an XML file (from file system)
+   - [ ] Project #n: Connect to mySQL database, get Schema information, and display it in window
+   - [ ] Project #n: Same as #n but for a SQL Server database
+   - [ ] Project #n: Same as #n but for an Oracle Database
+   - [ ] Project #n: FTP: Connect, Change Path, Upload, and Download
+   - [ ] 
 - 
 
 
