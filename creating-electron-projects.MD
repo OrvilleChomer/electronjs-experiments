@@ -1,4 +1,4 @@
-[Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments/blob/a43ec4f0070ae62c161bdbe512ce6b75f34ca71c/README.md)
+[Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments)
 
 # Creating New Electron Projects
 
