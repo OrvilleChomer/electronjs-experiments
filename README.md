@@ -21,7 +21,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
    - [ ] Project #n: Modify a window's menu
    - [ ] Project #n: Context menu
    - [ ] Project #n: Open Dialog. Allow user to select a text file and view its contents
-   - [ ] Project #n: Edit and Save text files... use Save Dialog
+   - [ ] Project #n: Edit and Save text files... use Save Dialog as well as Open Dialog
    - [ ] Project #4: main.js code sends a message window code (renderer.js)
    - [ ] Project #n: Load and Parse a JSON file (from file system)
    - [ ] Project #n: Load and Parse an XML file (from file system)
@@ -29,17 +29,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
    - [ ] Project #n: Same as #n but for a SQL Server database
    - [ ] Project #n: Same as #n but for an Oracle Database
    - [ ] Project #n: FTP: Connect, Change Path, Upload, and Download
-   - [ ] 
-- 
+   - [ ] Project #n: Cloud API Example: Dad Joke App ?
 
-
-#### Setting up a new Electron Project:
-
-
----
-
-#### Running / Testing your Electron project:
-- At the command line, make sure you are in the directory of your project.
-- Type in the command:  `npm start`  your app will start up.
 
 
