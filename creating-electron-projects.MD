@@ -1,6 +1,6 @@
 # Creating New Electron Projects
 
-I am using the common method of using the command line interface to do this (CLI)... Don't assume though that this is the *only* way that this can be done. Anyways, the steps:
+I am using the common method of using the command line interface to do this (CLI)... Don't assume though that this is the *only* way that this can be done. Anyways, here are the steps:
 - Create a directory for your project in a place that makes sense... this is where the code for your project is going to reside.
 - From the command line, make sure you change directory to that new directory... it becomes your *working directory*.
 - Type in:   `npm init` at the command line.  A script will run that will prompt you for various kinds of information.
