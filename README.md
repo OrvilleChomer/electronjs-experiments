@@ -15,8 +15,8 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 - Running/Testing Your Project -- in your projects directory type in the command:  `npm start`
 
 - The Experiments:
-   - Project #1: A simple App with a Window
-   - Project #2: App window code (renderer.js) Sending Messages to main.js
+   - [ ] Project #1: A simple App with a Window
+   - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
    - Project #3: Same as #2 but it sends a response back to the window code
    - Project #n: Modify a window's menu
    - Project #n: Button on window brings up an open dialog
