@@ -9,6 +9,8 @@ Some experiments will be trying basic stuff... but a little differently than I'v
 In order to use Electron, you will need to have Node.js installed on your computer. 
 
 #### Setting up an Electron Project:
-
+I am using the common method of using the command line interface to do this (CLI)... Don't assume though that this is the only way that this can be done. Anyways, the steps:
+- Create a directory for your project in a place that makes sense... this is where the code for your project is going to reside.
+- 
 #### Basic Project #1: A simple App with a Window:
 #### Basic Project #2:
