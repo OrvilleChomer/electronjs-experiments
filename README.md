@@ -35,7 +35,14 @@ It's contents will look something like this:
 ```
 At this point you've really just created a *Node.js* app. The next step will make it into an *Electron* app.
 - At the command line, type in the command: `npm install --save-dev electron`  ... this will add all the core Electron library dependencies to your project.
-- ddd
+- Bringing up the **package.json** file in your favorite editor, add in the following in your main top-level curly braces:
+```
+"scripts": {
+    "start": "electron ."
+  }
+```
+I put the above just after the "main" parameter.
+Yay! At this point you have created your own *Electron* boilerplate app! Also you probably noticed that as a result of running the npm install command above, it added a new section called: "dependencies" and added a reference to the Electron library.
 
 ---
 
