@@ -5,6 +5,8 @@ Some of this is going to be samples that are really nothing new... just me pract
 
 Some experiments will be trying basic stuff... but a little differently than I've seen... mainly practicing again to come up with sample code that I can possibly find useful in my own projects.
 
+I am doing my development on a Mac.  The editor I am using is VS Code.
+
 You might find some of the content here over-obvious... Wellll... *Captain Obvious Strikes Again!*
 
 #### Setting up an Electron Environment:
