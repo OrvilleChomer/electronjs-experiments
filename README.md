@@ -8,5 +8,5 @@ Some experiments will be trying basic stuff... but a little differently than I'v
 Setting up an ElectronJs Project
 In order to use Electron, you will need to have Node.js installed on your computer. 
 
-### Basic Project #1: A simple App with a Window
-### Basic Project #2:
+#### Basic Project #1: A simple App with a Window
+#### Basic Project #2:
