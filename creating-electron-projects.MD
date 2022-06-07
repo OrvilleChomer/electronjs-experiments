@@ -1,3 +1,3 @@
-# Creating Electron Projects
+# Creating New Electron Projects
 
 blah
