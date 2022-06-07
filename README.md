@@ -21,7 +21,7 @@ I am using the common method of using the command line interface to do this (CLI
 - **author** and **description** can have any value, but these parameters are necessary if you want to package your app (which you will probably want to do eventually... at least for real projects)!
 - When you are done working your way through this script's prompts, it will populate your project directory with a boilerplate 'app'.
 
----
+--
 
 #### Basic Project #1: A simple App with a Window:
 #### Basic Project #2:
