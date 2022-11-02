@@ -7,7 +7,7 @@
  * 
  */
 
- const { app, BrowserWindow } = require('electron')
+ const { app, BrowserWindow, shell } = require('electron')
  const fs = require('fs')
 
  let win
@@ -17,7 +17,22 @@
  app.whenReady().then(() => {
     win = new BrowserWindow({ width: 1400, height: 1000 })
 
-    win.webContents.openDevTools()
+    //win.webContents.openDevTools()
+    
+    /**
+     * Code block below causes hyperlinks clicked on in the window
+     * to open up in a web browser window instead of a window in
+     * your Electron app.
+     * 
+     * Note the 'require' line in line 10, I added 'shell' to the 
+     * list here in order for this to work!
+     * 
+     * The link's markup needs to have a:  target='_blank'    in it
+     * in order for this to work.
+     */
+    win.webContents.setWindowOpenHandler(function(values) {
+      shell.openExternal(values.url)
+    })
 
     let s = []
 
@@ -33,8 +48,9 @@
     s.push("<p>This web page was generated on the fly! How cool is that!</p>")
     s.push('<p id="info">???</p>')
     s.push('<hr>')
-    s.push('Github Repo:')
-
+    s.push('Github Repo Path: &nbsp;&nbsp;&nbsp;&nbsp;  <a target="_blank" href="')
+    s.push('https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4">')
+    s.push('https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4</a><br>')
     s.push('<script src="./'+APP_ENVIRONMENT+'Environment.js"></script>')
 
     s.push('<script src="./render.js" defer></script>')
