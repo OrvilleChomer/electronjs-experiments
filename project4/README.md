@@ -13,7 +13,7 @@
 - You will notice at this point that in this repo folder there is no **node_modules** folder yet
 - From the command line:
   - Make sure you change directory to your new folder  `cd {your new folder's path}`
-  - Type in the command: `npm install --save-dev electron` This will create a **node_modules** foler and add Electron related files to it
-  - This could take a little bit of time to run
+  - Type in the command: `npm install --save-dev electron` This will create a **node_modules** folder and add the Electron related files to it
+  - This could take a little bit of time to run!
   - Once done, you are ready to run the project!  just type in the command: `npm start` !
 
