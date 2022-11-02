@@ -37,7 +37,8 @@ You will need to create a 'main.js' file in the same directory. This file's code
 It is essentially Node.js code but you will be pulling in the *Electron* functionality by including:
 ```
 const { app, BrowserWindow } = require('electron')
-``` somewhere near the top of the file.  If by some chance your app is just something that runs at the command line and has no windows, you'll
+``` 
+somewhere near the top of the file.  If by some chance your app is just something that runs at the command line and has no windows, you'll
 probably not need the `BrowserWindow` part.
 
 Yay! At this point you have created your own *Electron* boilerplate app! Also you probably noticed that as a result of running the npm install command above, it added a new section called: "dependencies" and added a reference to the Electron library.
