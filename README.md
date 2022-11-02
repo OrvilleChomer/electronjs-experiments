@@ -18,7 +18,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
    - [ ] Project #1: A simple App with a Window
    - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
    - [ ] Project #3: Same as #2 but it sends a response *back* to the window code
-   - [ ] Project #4: [Dynamically generate HTML file and open in a window](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4)
+   - [X] Project #4: [Dynamically generate HTML file and open in a window](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4)
    - [ ] Project #n: Add a *Developer Tools* toggle button to a window
    - [ ] Project #n: Modify a window's menu
    - [ ] Project #n: Context popup menu
