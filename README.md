@@ -12,25 +12,33 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 ## Contents
 - Setting up an Electron Environment on your Desktop Computer
 - [Creating a new Electron Project](creating-electron-projects.MD)
-- Running/Testing Your Project -- in your projects directory type in the command:  `npm start`
+- Running/Testing Your Project -- in your project's directory type in the command:  `npm start`
 
 - Proposed Experiments:
    - [ ] Project #1: A simple App with a Window
    - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
-   - [ ] Project #3: Same as #2 but it sends a response back to the window code
-   - [ ] Project #n: Dynamically generate HTML file and open in a window
+   - [ ] Project #3: Same as #2 but it sends a response *back* to the window code
+   - [ ] Project #4: Dynamically generate HTML file and open in a window
+   - [ ] Project #n: Add a *Developer Tools* toggle button to a window
    - [ ] Project #n: Modify a window's menu
-   - [ ] Project #n: Context menu
+   - [ ] Project #n: Context popup menu
    - [ ] Project #n: Open Dialog. Allow user to select a text file and view its contents
    - [ ] Project #n: Edit and Save text files... use Save Dialog as well as Open Dialog
-   - [ ] Project #4: main.js code sends a message window code (renderer.js)
+   - [ ] Project #n: File Browser 1 - List files / directories
+   - [ ] Project #n: File Browser 2 - List files / directories, open html/css/JavaScript files in VS Code
+   - [ ] Project #n: File Browser 3 - List files / directories, create/delete directories/files
+   - [ ] Project #n: Simple app to generate a boilerplate node.js project
+   - [ ] Project #n: Simple app to generate a boilerplate Electron project
+   - [ ] Project #n: main.js code sends a message to a window code (renderer.js)
    - [ ] Project #n: Load and Parse a JSON file (from file system)
    - [ ] Project #n: Load and Parse an XML file (from file system)
+   - [ ] Project #n: Load and Parse an CSV file (from file system)
    - [ ] Project #n: Connect to mySQL database, get Schema information, and display it in window
    - [ ] Project #n: Same as #n but for a SQL Server database
    - [ ] Project #n: Same as #n but for an Oracle Database
-   - [ ] Project #n: FTP: Connect, Change Path, Upload, and Download
+   - [ ] Project #n: FTP: Connect, Change Path, Upload, Delete, and Download
    - [ ] Project #n: Cloud API Example: Dad Joke App ?
+   - [ ] Project #n: Cloud API Example: Call a Microsoft Azure end point that returns JSON and display results in a window
 
 
 
