@@ -8,7 +8,7 @@
 
 ### Project Setup
 - You will need to have Node.js already installed on your computer
-- Create a folder on your computer where you want your project to reside
+- Create a folder on your computer where you want this project to reside
 - Copy the files in this Github Repo folder into your new folder
 - You will notice at this point that in this repo folder there is no **node_modules** folder yet
 - From the command line:
