@@ -3,7 +3,8 @@
  * 
  *  Author:   Orville Chomer
  * 
- *  Github Repo:
+ *  Github Repo:   https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4
+ * 
  * 
  */
 
@@ -62,8 +63,13 @@
     try {
         // see:   https://nodejs.dev/en/learn/writing-files-with-nodejs/#:~:text=The%20easiest%20way%20to%20write,writeFile()%20API.
 
+        /**
+         * To quickly verify the technique, I am writing the file syncronously.
+         * Eventually I want to create an asyncronous version too.
+         * 
+         */
         fs.writeFileSync('./index.html', sContent);
-        // file written successfully
+        console.log("index.html file was written successfully");
       } catch (err) {
         console.error(err);
         return
