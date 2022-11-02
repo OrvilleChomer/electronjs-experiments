@@ -10,7 +10,7 @@ I am doing my development on a Mac.  The editor I am using is VS Code.
 You might find some of the content here over-obvious... Wellll... *Captain Obvious Strikes Again!*
 
 ## Contents
-- Setting up an Electron Environment on your Desktop Computer
+- [Setting up an Electron Environment on your Desktop Computer](https://github.com/OrvilleChomer/electronjs-experiments/blob/main/setting-up-electron-environment.MD)
 - [Creating a new Electron Project](creating-electron-projects.MD)
 - Running/Testing Your Project -- in your project's directory type in the command:  `npm start`
 
