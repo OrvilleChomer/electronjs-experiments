@@ -18,6 +18,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
    - [ ] Project #1: A simple App with a Window
    - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
    - [ ] Project #3: Same as #2 but it sends a response back to the window code
+   - [ ] Project #n: Dynamically generate HTML file and open in a window
    - [ ] Project #n: Modify a window's menu
    - [ ] Project #n: Context menu
    - [ ] Project #n: Open Dialog. Allow user to select a text file and view its contents
