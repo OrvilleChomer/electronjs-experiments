@@ -5,10 +5,10 @@
 ### This project demonstrates:
 - Using the file system to generate an HTML file
 - How the HTML file content can be automatically generated based on various states such as the environment the app running in
-- Opening up this new HTML file in a window
-- Also demonstrates opening up a link url in a web browser
+- Opening up this new HTML file inside of a window
+- Also demonstrates opening up a url in a web browser when a user clicks on a link in the app's window
 
-### Project Setup
+### Project setup:
 - You will need to have Node.js already installed on your computer
 - Create a folder on your computer where you want this project to reside
 - Copy the files in this Github Repo folder into your new folder
