@@ -27,6 +27,9 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
    - [ ] Project #n: File Browser 1 - List files / directories
    - [ ] Project #n: File Browser 2 - List files / directories, open html/css/JavaScript files in VS Code
    - [ ] Project #n: File Browser 3 - List files / directories, create/delete directories/files
+   - [ ] Project #n: Send SMS message to a phone via Twilio
+   - [ ] Project #n: Send an email to a specified email address
+   - [ ] Project #n: Push Notification Example
    - [ ] Project #n: Simple app to generate a boilerplate node.js project
    - [ ] Project #n: Simple app to generate a boilerplate Electron project
    - [ ] Project #n: main.js code sends a message to a window code (renderer.js)
