@@ -1,0 +1,13 @@
+body {
+    background-color:darkseagreen;
+    box-sizing: border-box;
+    font-family: Optimist,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+#info {
+    background-color:lightgoldenrodyellow;
+    color:blue;
+    font-weight:bold;
+    padding:10px;
+    border:dashed silver 3px;
+}
