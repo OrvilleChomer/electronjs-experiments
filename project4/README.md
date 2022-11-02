@@ -1,3 +1,5 @@
+[Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments)
+
 # Project 4: Dynamically Generate HTML Code and Display in Window
 
 ### This project demonstrates:
