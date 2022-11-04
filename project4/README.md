@@ -1,6 +1,7 @@
 [Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments)
 
-# Project 4: Dynamically Generate HTML Code and Display in Window
+# Electron JS Experiments
+## Project 4: Dynamically Generate HTML Code and Display in Window
 
 ### This project demonstrates:
 - Using the file system to generate an HTML file *Syncronously* (to see a project that is an *Asyncronous* version, go [here](https://github.com/OrvilleChomer/electronjs-experiments/blob/main/project5/README.md)).
