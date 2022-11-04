@@ -16,7 +16,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 - Running/Testing Your Project -- from the command line, in your project's directory, type in the command:  `npm start`
 
 - **Proposed Experiments**: (Experiments that are checked off I have completed and added to Github)
-   - [ ] Project #1: [A simple App with a Window](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project1)
+   - [X] Project #1: [A simple App with a Window](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project1)
    - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
    - [ ] Project #3: Same as #2 but it sends a response *back* to the window code
    - [X] Project #4: [Dynamically generate HTML file and open in a window](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4)
