@@ -14,7 +14,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 - [Creating a new Electron Project](creating-electron-projects.MD)
 - Running/Testing Your Project -- from the command line, in your project's directory, type in the command:  `npm start`
 
-- Proposed Experiments:
+- **Proposed Experiments**: (Experiments that are checked off I have completed and added to Github)
    - [ ] Project #1: A simple App with a Window
    - [ ] Project #2: App window code (renderer.js) Sending Messages to main.js
    - [ ] Project #3: Same as #2 but it sends a response *back* to the window code
