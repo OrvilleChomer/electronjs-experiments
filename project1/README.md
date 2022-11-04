@@ -1,5 +1,6 @@
 [Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments)
 
+# Electron JS Experiments
 ## Project 1: A Simple App With a Window
 
 ### This project demonstrates:
