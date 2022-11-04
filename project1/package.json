@@ -1,0 +1,15 @@
+{
+  "name": "newWin",
+  "version": "1.0.0",
+  "description": "Open HTML file in a new window",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orville Chomer",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}

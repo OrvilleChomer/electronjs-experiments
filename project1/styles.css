@@ -1,0 +1,31 @@
+/*
+  File:          styles.css
+
+  Github Repo:   https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4
+
+ */
+body {
+    background-color:silver;
+    box-sizing: border-box;
+    font-family: Optimist,Helvetica Neue,Helvetica,Arial,sans-serif;    
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    font-size: 32pt;
+    color: #ff3333;
+    text-shadow: 2px 2px 3px black;
+}
+
+#info {
+    background-color:lightgoldenrodyellow;
+    color:blue;
+    font-weight:bold;
+    padding:20px;
+    border:dashed gray 3px;
+    border-radius:20px;
+}
+
+a,a:visited {
+    color:darkblue;
+}
