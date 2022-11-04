@@ -24,7 +24,14 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - UIs (User Interfaces)
   - windows
 - database access
+  - closing connection
+  - connecting to
+  - DDL
+  - inserting
+  - queries
+  - update
 - deleting
+  - databases
   - directories
   - files
 - deliverables
