@@ -1,0 +1,15 @@
+{
+  "name": "genmarkup2",
+  "version": "1.0.0",
+  "description": "Generate HTML file on the fly and open in a new window",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orville Chomer",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}

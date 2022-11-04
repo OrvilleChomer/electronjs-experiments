@@ -1,0 +1,20 @@
+/*
+  File:          styles.css
+
+  Github Repo:   https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project5
+
+ */
+body {
+    background-color:#ff8080;
+    box-sizing: border-box;
+    font-family: Optimist,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+#info {
+    background-color:#ffddcc;
+    color:blue;
+    font-weight:bold;
+    padding:20px;
+    border:dashed silver 3px;
+    border-radius:5px;
+}
