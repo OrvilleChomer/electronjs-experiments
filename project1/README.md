@@ -1,10 +1,10 @@
 [Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments)
 
-# Project 1: Dynamically Generate HTML Code and Display in Window
+## Project 1: A Simple App With a Window
 
 ### This project demonstrates:
 - Opening up an HTML file (index.html) inside of a window
-- Also demonstrates opening up a url in a web browser when a user clicks on a link in the app's window
+- Also demonstrates opening up a url in a web browser when a user clicks on a link in the app's window (all these project do so that the windows in them have links back to their Github repo!)
 
 ### Project setup:
 - You will need to have Node.js already installed on your computer
