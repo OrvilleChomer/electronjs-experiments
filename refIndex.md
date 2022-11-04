@@ -24,8 +24,10 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - deleting
   - directories
   - files
+- deliverables
 - dependencies 
 - Developer Tools
+- dev ops
 - directory
   - creating
   - deleting
@@ -60,6 +62,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - SQL
 - Terminal app (MacOS)
 - Twilio (for SMS)
+- VS Code (Visual Studio Code)
 - windows
   - creating
 - worker threads
