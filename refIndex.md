@@ -29,6 +29,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - generating and sending
 - event handlers
 - events
+- file browser
 - file system (fs)
 - fs (file system)
 - FTP (File Transfer Protocol)
