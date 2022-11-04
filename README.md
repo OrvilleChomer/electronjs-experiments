@@ -12,7 +12,7 @@ You might find some of the content here over-obvious... Wellll... *Captain Obvio
 ## Contents
 - [Setting up an Electron Environment on your Desktop Computer](https://github.com/OrvilleChomer/electronjs-experiments/blob/main/setting-up-electron-environment.MD)
 - [Creating a new Electron Project](creating-electron-projects.MD)
-- Running/Testing Your Project -- in your project's directory type in the command:  `npm start`
+- Running/Testing Your Project -- from the command line, in your project's directory, type in the command:  `npm start`
 
 - Proposed Experiments:
    - [ ] Project #1: A simple App with a Window
