@@ -1,15 +1,16 @@
 [Return to Main Page](https://github.com/OrvilleChomer/electronjs-experiments)
 
-# Project 5: Dynamically Generate HTML Code and Display in Window
-## Asyncronous Version
+# Electron JS Experiments
+## Project 5: Dynamically Generate HTML Code and Display in Window
+### Asyncronous Version
 
-### This project demonstrates:
+#### This project demonstrates:
 - Using the file system to generate an HTML file asyncronously (to see the *Syncronous* version of  this project go [here](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4) )
 - How the HTML file content can be automatically generated based on various states such as the environment the app running in
 - Opening up this new HTML file inside of a window
 - Also demonstrates opening up a url in a web browser when a user clicks on a link in the app's window
 
-### Project setup:
+#### Project setup:
 - You will need to have Node.js already installed on your computer
 - Create a folder on your computer where you want this project to reside
 - Copy the files in this Github Repo folder into your new folder
