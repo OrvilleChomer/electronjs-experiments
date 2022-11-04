@@ -5,6 +5,8 @@
 
 Entries, and links *for* those entries will be added/updated as I build this documentation out over time.
 
+- API (Aplication Program Interface)
+- Bash
 - CLI (Command Line Interface)
 - command line
   - npm commands
@@ -13,6 +15,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - Print
   - Print Preview
   - Save As
+- cloud computing
 - creating
   - databases
   - directories
@@ -52,6 +55,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - from main.js to a window
   - from window to main.js
 - meta tags
+- MVC (Model View Controller)
 - Node.js
 - npm (Node Package Manager)
 - push notifications
@@ -66,3 +70,4 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - windows
   - creating
 - worker threads
+- XML
