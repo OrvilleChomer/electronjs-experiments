@@ -3,7 +3,7 @@
 # Project 4: Dynamically Generate HTML Code and Display in Window
 
 ### This project demonstrates:
-- Using the file system to generate an HTML file
+- Using the file system to generate an HTML file *Syncronously* (to see a project that is an *Asyncronous* version, go [here](https://github.com/OrvilleChomer/electronjs-experiments/blob/main/project5/README.md)).
 - How the HTML file content can be automatically generated based on various states such as the environment the app running in
 - Opening up this new HTML file inside of a window
 - Also demonstrates opening up a url in a web browser when a user clicks on a link in the app's window
