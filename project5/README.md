@@ -4,7 +4,7 @@
 ## Asyncronous Version
 
 ### This project demonstrates:
-- Using the file system to generate an HTML file asyncronously (to see the Syncronous version of  this project go [here]() )
+- Using the file system to generate an HTML file asyncronously (to see the Syncronous version of  this project go [here](https://github.com/OrvilleChomer/electronjs-experiments/tree/main/project4) )
 - How the HTML file content can be automatically generated based on various states such as the environment the app running in
 - Opening up this new HTML file inside of a window
 - Also demonstrates opening up a url in a web browser when a user clicks on a link in the app's window
