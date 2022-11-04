@@ -55,6 +55,9 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - from main.js to a window
   - from window to main.js
 - meta tags
+- monitors (for multi-monitor setups)
+  - determine which monitor a window is opened in
+  - open window on monitor    
 - MVC (Model View Controller)
 - Node.js
 - npm (Node Package Manager)
