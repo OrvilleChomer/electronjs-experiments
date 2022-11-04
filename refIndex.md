@@ -52,12 +52,14 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - meta tags
 - Node.js
 - npm (Node Package Manager)
+- push notifications
 - render.js
 - required()
 - SMS
   - generating and sending
 - SQL
 - Terminal app (MacOS)
+- Twilio (for SMS)
 - windows
   - creating
 - worker threads
