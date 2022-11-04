@@ -8,6 +8,11 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - CLI (Command Line Interface)
 - command line
   - npm commands
+- common dialogs
+  - Open
+  - Print
+  - Print Preview
+  - Save As
 - creating
   - databases
   - directories
