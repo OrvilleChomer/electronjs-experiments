@@ -65,7 +65,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - fs (file system)
 - FTP (File Transfer Protocol)
 - Google APIs
-- Google Drive API
+- Google Drive API (using)
 - handle() event handler ... handle messages from .invoke() method
 - height
 - HTML
