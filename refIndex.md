@@ -5,8 +5,11 @@
 
 Entries, and links *for* those entries will be added/updated as I build this documentation out over time.
 
+- __dirname (dirname)
 - API (Aplication Program Interface)
+- app object
 - Bash
+- BrowserWindow
 - CLI (Command Line Interface)
 - command line
   - npm commands
@@ -15,6 +18,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - Print
   - Print Preview
   - Save As
+- contextBridge
 - cloud computing
 - creating
   - databases
@@ -42,6 +46,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - creating
   - deleting
   - listing
+- dirname (__dirname)
 - Electron
 - email
   - generating and sending
@@ -54,6 +59,10 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - FTP (File Transfer Protocol)
 - HTML
 - hyperlinks
+- installing dependencies
+- invoke() method (ipcRenderer)
+- ipcMain
+- ipcRenderer
 - JSON
 - main.js
 - menus
@@ -69,9 +78,13 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - MVC (Model View Controller)
 - Node.js
 - npm (Node Package Manager)
+- on() event handler
+- path library
+- preload.js
 - push notifications
 - render.js
-- required()
+- require()
+- send() method (ipcRenderer)
 - SMS
   - generating and sending
 - SQL
@@ -82,3 +95,4 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - creating
 - worker threads
 - XML
+- YouTube videos on Electron
