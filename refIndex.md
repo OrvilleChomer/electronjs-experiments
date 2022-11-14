@@ -7,12 +7,21 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 
 - __dirname (dirname)
 - API (Aplication Program Interface)
+  - Internal Communication API (Defining and Using)
 - app object
 - async / await
+- authenticating
+  - Using Facebook
+  - Using Github
+  - Using Microsoft account
+  - Using Twitter
 - Bash
 - BrowserWindow
 - channels (message channels)
 - CLI (Command Line Interface)
+- child windows
+- closing windows (programatically)
+- cloud computing
 - command line
   - npm commands
 - common dialogs
@@ -21,7 +30,6 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - Print Preview
   - Save As
 - contextBridge
-- cloud computing
 - creating
   - databases
   - directories
@@ -58,6 +66,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - event handlers
 - event objects
 - events
+- executing external programs
 - exposeToMainWorld() method (contextBridge object)
 - fetch()
 - file browser
@@ -103,6 +112,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
 - preload.js
 - promises
 - push notifications
+- quit() method (for ending your application)
 - renderer.js
 - require()
 - send() method (ipcRenderer)
@@ -114,6 +124,7 @@ Entries, and links *for* those entries will be added/updated as I build this doc
   - generating and sending
 - SQL
 - Terminal app (MacOS)
+- then() ... on a promise
 - Twilio (for SMS)
 - VS Code (Visual Studio Code)
 - webContents object
